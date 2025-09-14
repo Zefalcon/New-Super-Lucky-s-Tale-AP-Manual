@@ -1,0 +1,1953 @@
+[
+  {
+    "name": "Heavy Heads L location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Heads K location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Heads C location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Heads U location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Heads Hidden Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Heads Y location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Heads 300 Coins Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Heads Completion Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heavy Heads LUCKY Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Heavy Heads Letter:5|"
+  },
+  {
+    "name": "Aqueducts L location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aqueducts U location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aqueducts C location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aqueducts K location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aqueducts Y location",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aqueducts Hidden Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aqueducts 300 Coins Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aqueducts LUCKY Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Aqueducts Letter:5|"
+  },
+  {
+    "name": "Aqueducts Completion Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Go Fetch L location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Go Fetch U location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Go Fetch C location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Go Fetch K location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Go Fetch Y location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Go Fetch Hidden Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Go Fetch 300 Coins Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Go Fetch LUCKY Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Go Fetch Letter:5|"
+  },
+  {
+    "name": "Go Fetch Completion Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Run L location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Run U location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Run C location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Run K location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Run Y location",
+    "region": "Sky Castle",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Run Hidden Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Run 300 Coins Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Run LUCKY Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Dungeon Run Letter:5|"
+  },
+  {
+    "name": "Dungeon Run Completion Page",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 1",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 2",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 3",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 4",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 5",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 6",
+    "region": "Sky Castle",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piggy Peril L location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piggy Peril U location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piggy Peril C location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piggy Peril K location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piggy Peril Y location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piggy Peril Hidden Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piggy Peril 300 Coins Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Piggy Peril LUCKY Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Piggy Peril Letter:5|"
+  },
+  {
+    "name": "Piggy Peril Completion Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Egg Roll L location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Egg Roll U location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Egg Roll C location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Egg Roll K location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Egg Roll Y location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Egg Roll Hidden Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Egg Roll 300 Coins Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Egg Roll LUCKY Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Egg Roll Letter:5|"
+  },
+  {
+    "name": "Egg Roll Completion Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripe Rollers L location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripe Rollers U location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripe Rollers C location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripe Rollers K location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripe Rollers Y location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripe Rollers Hidden Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripe Rollers 300 Coins Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ripe Rollers LUCKY Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Ripe Rollers Letter:5|"
+  },
+  {
+    "name": "Ripe Rollers Completion Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harvest Festival L location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harvest Festival U location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harvest Festival C location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harvest Festival K location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harvest Festival Y location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harvest Festival Hidden Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harvest Festival 300 Coins Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harvest Festival LUCKY Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Harvest Festival Letter:5|"
+  },
+  {
+    "name": "Harvest Festival Completion Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pungent Paths L location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pungent Paths U location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pungent Paths C location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pungent Paths K location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pungent Paths Y location",
+    "region": "Veggie Village",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pungent Paths Hidden Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pungent Paths 300 Coins Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pungent Paths LUCKY Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Pungent Paths Letter:5|"
+  },
+  {
+    "name": "Pungent Paths Completion Page",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Minigame 1",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Minigame 2",
+    "region": "Veggie Village",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ladder Match of the Mind L location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ladder Match of the Mind U location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ladder Match of the Mind C location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ladder Match of the Mind K location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ladder Match of the Mind Y location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ladder Match of the Mind Hidden Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ladder Match of the Mind 300 Coins Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ladder Match of the Mind LUCKY Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Ladder Match of the Mind Letter:5|"
+  },
+  {
+    "name": "Ladder Match of the Mind Completion Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Melon Madness L location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Melon Madness U location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Melon Madness C location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Melon Madness K location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Melon Madness Y location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Melon Madness Hidden Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Melon Madness 300 Coins Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Melon Madness LUCKY Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Melon Madness Letter:5|"
+  },
+  {
+    "name": "Melon Madness Completion Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peaceful Place L location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peaceful Place U location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peaceful Place C location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peaceful Place K location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peaceful Place Y location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peaceful Place Hidden Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peaceful Place 300 Coins Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peaceful Place LUCKY Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Peaceful Place Letter:5|"
+  },
+  {
+    "name": "Peaceful Place Completion Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawl, Walk, Run L location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawl, Walk, Run U location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawl, Walk, Run C location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawl, Walk, Run K location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawl, Walk, Run Y location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawl, Walk, Run Hidden Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawl, Walk, Run 300 Coins Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawl, Walk, Run LUCKY Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Crawl, Walk, Run Letter:5|"
+  },
+  {
+    "name": "Crawl, Walk, Run Completion Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "8-Fold Path L location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "8-Fold Path U location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "8-Fold Path C location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "8-Fold Path K location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "8-Fold Path Y location",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "8-Fold Path Hidden Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "8-Fold Path 300 Coins Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "8-Fold Path LUCKY Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|8-Fold Path Letter:5|"
+  },
+  {
+    "name": "8-Fold Path Completion Page",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 7",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 8",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 9",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 10",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 11",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 12",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Securing the Talent L location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Securing the Talent U location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Securing the Talent C location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Securing the Talent K location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Securing the Talent Y location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Securing the Talent Hidden Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Securing the Talent 300 Coins Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Securing the Talent LUCKY Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Securing the Talent Letter:5|"
+  },
+  {
+    "name": "Securing the Talent Completion Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapped in Paradise L location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapped in Paradise U location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapped in Paradise C location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapped in Paradise K location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapped in Paradise Y location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapped in Paradise Hidden Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapped in Paradise 300 Coins Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapped in Paradise LUCKY Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Trapped in Paradise Letter:5|"
+  },
+  {
+    "name": "Trapped in Paradise Completion Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Three Cannon Salute L location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Three Cannon Salute U location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Three Cannon Salute C location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Three Cannon Salute K location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Three Cannon Salute Y location",
+    "region": "Gilly Island",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Three Cannon Salute Hidden Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Three Cannon Salute 300 Coins Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Three Cannon Salute LUCKY Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Three Cannon Salute Letter:5|"
+  },
+  {
+    "name": "Three Cannon Salute Completion Page",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 13",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 14",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 15",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 16",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 17",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puzzle 18",
+    "region": "Gilly Island",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carnival Court L location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carnival Court U location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carnival Court C location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carnival Court K location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carnival Court Y location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carnival Court Hidden Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carnival Court 300 Coins Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carnival Court LUCKY Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Carnival Court Letter:5|"
+  },
+  {
+    "name": "Carnival Court Completion Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terror Train L location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terror Train U location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terror Train C location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terror Train K location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terror Train Y location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terror Train Hidden Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terror Train 300 Coins Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terror Train LUCKY Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Terror Train Letter:5|"
+  },
+  {
+    "name": "Terror Train Completion Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grave Awakening L location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grave Awakening U location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grave Awakening C location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grave Awakening K location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grave Awakening Y location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grave Awakening Hidden Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grave Awakening 300 Coins Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grave Awakening LUCKY Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Grave Awakening Letter:5|"
+  },
+  {
+    "name": "Grave Awakening Completion Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Crawl L location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Crawl U location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Crawl C location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Crawl K location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Crawl Y location",
+    "region": "Hauntingham",
+    "category": [
+      "Letters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Crawl Hidden Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Crawl 300 Coins Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon Crawl LUCKY Page",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": "|Dungeon Crawl Letter:5|"
+  },
+  {
+    "name": "Dungeon Crawl Completion Page",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Minigame 3",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Minigame 4",
+    "region": "Hauntingham",
+    "category": [
+      "Pages"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jinx",
+    "region": "Hauntingham",
+    "victory": true,
+    "category": [
+      "Boss"
+    ],
+    "requires": "|Hauntingham Page:4|"
+  },
+  {
+    "name": "Might As Well Jump",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Under Pressure",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Top That!",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Can You Dig It?",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Step By Step",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Road to Nowhere",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Ain't Afraid",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You Roll Me Right Round",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Roller of a Lonely Heart",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Head Over Heels",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Revenge of the Nerd",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Love Fox and Roll",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Roll With It",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Fluffle Shuffle",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gotta Get Back In Time",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wrigglemania",
+    "region": "Foxington",
+    "category": [
+      "Medals"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Meow-Linen Headband",
+    "region": "Sky Castle",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Sky Castle Page:24|"
+  },
+  {
+    "name": "Mittens' Not-Athleisure",
+    "region": "Sky Castle",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Sky Castle Page:24|"
+  },
+  {
+    "name": "Calculated Coiffure",
+    "region": "Veggie Village",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Veggie Village Page:22|"
+  },
+  {
+    "name": "Labcoat 2.0",
+    "region": "Veggie Village",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Veggie Village Page:22|"
+  },
+  {
+    "name": "Buttons' Bicorn",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Wrestful Retreat Page:22|"
+  },
+  {
+    "name": "Buttons' Regimented Regalia",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Wrestful Retreat Page:22|"
+  },
+  {
+    "name": "Meowvalous Mane",
+    "region": "Gilly Island",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Gilly Island Page:18|"
+  },
+  {
+    "name": "What? This Old Thing?",
+    "region": "Gilly Island",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Gilly Island Page:18|"
+  },
+  {
+    "name": "Bossy Brows",
+    "region": "Hauntingham",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Hauntingham Page:18|"
+  },
+  {
+    "name": "Bossy Bathrobe",
+    "region": "Hauntingham",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Hauntingham Page:18|"
+  },
+  {
+    "name": "The Favorite Fedora",
+    "region": "Sky Castle",
+    "category": [
+      "Costumes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Adventure Vestments",
+    "region": "Sky Castle",
+    "category": [
+      "Costumes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Howdy's Hidden Hotdog Hat",
+    "region": "Foxington",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Medal:16|"
+  },
+  {
+    "name": "Smiley's Secret Sausage Smock",
+    "region": "Foxington",
+    "category": [
+      "Costumes"
+    ],
+    "requires": "|Medal:16|"
+  },
+  {
+    "name": "Top-of-the-line Tophat",
+    "region": "Hauntingham",
+    "category": [
+      "Costumes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Financial Finery",
+    "region": "Hauntingham",
+    "category": [
+      "Costumes"
+    ],
+    "requires": []
+  }
+]

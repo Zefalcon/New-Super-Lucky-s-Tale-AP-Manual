@@ -1,0 +1,37 @@
+{
+  "Sky Castle": {
+    "starting": true,
+    "connects_to": [
+      "Veggie Village"
+    ],
+    "requires": []
+  },
+  "Veggie Village": {
+    "connects_to": [
+      "Wrestful Retreat"
+    ],
+    "requires": "|Sky Castle Page:8|"
+  },
+  "Wrestful Retreat": {
+    "connects_to": [
+      "Gilly Island"
+    ],
+    "requires": "|Veggie Village Page:10|"
+  },
+  "Gilly Island": {
+    "connects_to": [
+      "Hauntingham"
+    ],
+    "requires": "|Wrestful Retreat Page:10|"
+  },
+  "Hauntingham": {
+    "connects_to": [
+      "Foxington"
+    ],
+    "requires": "|Gilly Island Page:6|"
+  },
+  "Foxington": {
+    "connects_to": [],
+    "requires": "|Hauntingham Page:4|"
+  }
+}
