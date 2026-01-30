@@ -1,7 +1,7 @@
 [
   {
     "name": "Heavy Heads L location",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Letters"
     ],
@@ -9,7 +9,7 @@
   },
   {
     "name": "Heavy Heads K location",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Letters"
     ],
@@ -17,7 +17,7 @@
   },
   {
     "name": "Heavy Heads C location",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Letters"
     ],
@@ -25,7 +25,7 @@
   },
   {
     "name": "Heavy Heads U location",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Letters"
     ],
@@ -33,7 +33,7 @@
   },
   {
     "name": "Heavy Heads Hidden Page",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Pages"
     ],
@@ -41,7 +41,7 @@
   },
   {
     "name": "Heavy Heads Y location",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Letters"
     ],
@@ -49,7 +49,7 @@
   },
   {
     "name": "Heavy Heads 300 Coins Page",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Pages"
     ],
@@ -57,7 +57,7 @@
   },
   {
     "name": "Heavy Heads Completion Page",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Pages"
     ],
@@ -65,7 +65,7 @@
   },
   {
     "name": "Heavy Heads LUCKY Page",
-    "region": "Sky Castle",
+    "region": "Sky Castle Entrance",
     "category": [
       "Pages"
     ],
@@ -105,6 +105,7 @@
   },
   {
     "name": "Aqueducts Y location",
+    "region": "Sky Castle",
     "category": [
       "Letters"
     ],
@@ -333,6 +334,14 @@
       "Pages"
     ],
     "requires": []
+  },
+  {
+    "name": "Mittens",
+    "region": "Sky Castle",
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Sky Castle Page:8|"
   },
   {
     "name": "Piggy Peril L location",
@@ -709,6 +718,14 @@
       "Pages"
     ],
     "requires": []
+  },
+  {
+    "name": "Tess",
+    "region": "Veggie Village",
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Veggie Village Page:10|"
   },
   {
     "name": "Ladder Match of the Mind L location",
@@ -1119,6 +1136,14 @@
     "requires": []
   },
   {
+    "name": "Buttons",
+    "region": "Wrestful Retreat",
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Wrestful Retreat Page:10|"
+  },
+  {
     "name": "Securing the Talent L location",
     "region": "Gilly Island",
     "category": [
@@ -1383,8 +1408,16 @@
     "requires": []
   },
   {
+    "name": "Meowmalade",
+    "region": "Gilly Island",
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Gilly Island Page:6|"
+  },
+  {
     "name": "Carnival Court L location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Letters"
     ],
@@ -1392,7 +1425,7 @@
   },
   {
     "name": "Carnival Court U location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Letters"
     ],
@@ -1400,7 +1433,7 @@
   },
   {
     "name": "Carnival Court C location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Letters"
     ],
@@ -1408,7 +1441,7 @@
   },
   {
     "name": "Carnival Court K location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Letters"
     ],
@@ -1416,7 +1449,7 @@
   },
   {
     "name": "Carnival Court Y location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Letters"
     ],
@@ -1424,7 +1457,7 @@
   },
   {
     "name": "Carnival Court Hidden Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Pages"
     ],
@@ -1432,7 +1465,7 @@
   },
   {
     "name": "Carnival Court 300 Coins Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Pages"
     ],
@@ -1440,7 +1473,7 @@
   },
   {
     "name": "Carnival Court LUCKY Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Pages"
     ],
@@ -1448,7 +1481,7 @@
   },
   {
     "name": "Carnival Court Completion Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Pages"
     ],
@@ -1456,7 +1489,7 @@
   },
   {
     "name": "Terror Train L location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Letters"
     ],
@@ -1464,7 +1497,7 @@
   },
   {
     "name": "Terror Train U location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Letters"
     ],
@@ -1472,7 +1505,7 @@
   },
   {
     "name": "Terror Train C location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Letters"
     ],
@@ -1480,7 +1513,7 @@
   },
   {
     "name": "Terror Train K location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Letters"
     ],
@@ -1488,7 +1521,7 @@
   },
   {
     "name": "Terror Train Y location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Letters"
     ],
@@ -1496,7 +1529,7 @@
   },
   {
     "name": "Terror Train Hidden Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Pages"
     ],
@@ -1504,7 +1537,7 @@
   },
   {
     "name": "Terror Train 300 Coins Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Pages"
     ],
@@ -1512,7 +1545,7 @@
   },
   {
     "name": "Terror Train LUCKY Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Pages"
     ],
@@ -1520,7 +1553,7 @@
   },
   {
     "name": "Terror Train Completion Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Train",
     "category": [
       "Pages"
     ],
@@ -1528,7 +1561,7 @@
   },
   {
     "name": "Grave Awakening L location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Letters"
     ],
@@ -1536,7 +1569,7 @@
   },
   {
     "name": "Grave Awakening U location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Letters"
     ],
@@ -1544,7 +1577,7 @@
   },
   {
     "name": "Grave Awakening C location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Letters"
     ],
@@ -1552,7 +1585,7 @@
   },
   {
     "name": "Grave Awakening K location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Letters"
     ],
@@ -1560,7 +1593,7 @@
   },
   {
     "name": "Grave Awakening Y location",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Letters"
     ],
@@ -1568,7 +1601,7 @@
   },
   {
     "name": "Grave Awakening Hidden Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Pages"
     ],
@@ -1576,7 +1609,7 @@
   },
   {
     "name": "Grave Awakening 300 Coins Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Pages"
     ],
@@ -1584,7 +1617,7 @@
   },
   {
     "name": "Grave Awakening LUCKY Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Pages"
     ],
@@ -1592,7 +1625,7 @@
   },
   {
     "name": "Grave Awakening Completion Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Pages"
     ],
@@ -1600,7 +1633,7 @@
   },
   {
     "name": "Dungeon Crawl L location",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
     "category": [
       "Letters"
     ],
@@ -1608,7 +1641,7 @@
   },
   {
     "name": "Dungeon Crawl U location",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
     "category": [
       "Letters"
     ],
@@ -1616,7 +1649,7 @@
   },
   {
     "name": "Dungeon Crawl C location",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
     "category": [
       "Letters"
     ],
@@ -1624,7 +1657,7 @@
   },
   {
     "name": "Dungeon Crawl K location",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
     "category": [
       "Letters"
     ],
@@ -1632,7 +1665,7 @@
   },
   {
     "name": "Dungeon Crawl Y location",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
     "category": [
       "Letters"
     ],
@@ -1640,7 +1673,7 @@
   },
   {
     "name": "Dungeon Crawl Hidden Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
     "category": [
       "Pages"
     ],
@@ -1648,7 +1681,7 @@
   },
   {
     "name": "Dungeon Crawl 300 Coins Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
     "category": [
       "Pages"
     ],
@@ -1656,7 +1689,7 @@
   },
   {
     "name": "Dungeon Crawl LUCKY Page",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
     "category": [
       "Pages"
     ],
@@ -1664,6 +1697,7 @@
   },
   {
     "name": "Dungeon Crawl Completion Page",
+    "region": "Hauntingham End",
     "category": [
       "Pages"
     ],
@@ -1671,7 +1705,7 @@
   },
   {
     "name": "Minigame 3",
-    "region": "Hauntingham",
+    "region": "Hauntingham Start",
     "category": [
       "Pages"
     ],
@@ -1679,7 +1713,7 @@
   },
   {
     "name": "Minigame 4",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Pages"
     ],
@@ -1687,10 +1721,18 @@
   },
   {
     "name": "Jinx",
-    "region": "Hauntingham",
+    "region": "Hauntingham End",
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Hauntingham Page:4|"
+  },
+  {
+    "name": "Defeat Jinx",
+    "region": "Hauntingham End",
     "victory": true,
     "category": [
-      "Boss"
+      "Victory"
     ],
     "requires": "|Hauntingham Page:4|"
   },
@@ -1888,7 +1930,7 @@
   },
   {
     "name": "Bossy Brows",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Costumes"
     ],
@@ -1896,7 +1938,7 @@
   },
   {
     "name": "Bossy Bathrobe",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Costumes"
     ],
@@ -1936,7 +1978,7 @@
   },
   {
     "name": "Top-of-the-line Tophat",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Costumes"
     ],
@@ -1944,10 +1986,18 @@
   },
   {
     "name": "Financial Finery",
-    "region": "Hauntingham",
+    "region": "Hauntingham Island",
     "category": [
       "Costumes"
     ],
     "requires": []
+  },
+  {
+    "name": "All Medals",
+    "victory": true,
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Medal:16|"
   }
 ]

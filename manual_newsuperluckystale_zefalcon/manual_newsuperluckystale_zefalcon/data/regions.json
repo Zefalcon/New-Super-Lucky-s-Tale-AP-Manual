@@ -1,37 +1,61 @@
 {
-  "Sky Castle": {
+  "Sky Castle Entrance": {
     "starting": true,
+    "connects_to": [
+      "Sky Castle"
+    ],
+    "requires": []
+  },
+  "Sky Castle": {
     "connects_to": [
       "Veggie Village"
     ],
-    "requires": []
+    "requires": "|Sky Castle Page:1| or {YamlEnabled(completed_file)}"
   },
   "Veggie Village": {
     "connects_to": [
       "Wrestful Retreat"
     ],
-    "requires": "|Sky Castle Page:8|"
+    "requires": "(|Veggie Village Unlock| and {YamlEnabled(completed_file)}) or (|Veggie Village Unlock| and |Sky Castle Page:8| and {YamlDisabled(completed_file)})"
   },
   "Wrestful Retreat": {
     "connects_to": [
       "Gilly Island"
     ],
-    "requires": "|Veggie Village Page:10|"
+    "requires": "(|Wrestful Retreat Unlock| and {YamlEnabled(completed_file)}) or (|Wrestful Retreat Unlock| and |Veggie Village Page:10| and {YamlDisabled(completed_file)})"
   },
   "Gilly Island": {
     "connects_to": [
-      "Hauntingham"
+      "Hauntingham Start"
     ],
-    "requires": "|Wrestful Retreat Page:10|"
+    "requires": "(|Gilly Island Unlock| and {YamlEnabled(completed_file)}) or (|Gilly Island Unlock| and |Wrestful Retreat Page:10| and {YamlDisabled(completed_file)})"
   },
-  "Hauntingham": {
+  "Hauntingham Start": {
+    "connects_to": [
+      "Hauntingham Train"
+    ],
+    "requires": "(|Hauntingham Unlock| and {YamlEnabled(completed_file)}) or (|Hauntingham Unlock| and |Gilly Island Page:6| and {YamlDisabled(completed_file)})"
+  },
+  "Hauntingham Train": {
+    "connects_to": [
+      "Hauntingham Island"
+    ],
+    "requires": "|Hauntingham Page:1| or {YamlEnabled(completed_file)}"
+  },
+  "Hauntingham Island": {
+    "connects_to": [
+      "Hauntingham End"
+    ],
+    "requires": "|Hauntingham Page:2| or {YamlEnabled(completed_file)}"
+  },
+  "Hauntingham End": {
     "connects_to": [
       "Foxington"
     ],
-    "requires": "|Gilly Island Page:6|"
+    "requires": "|Hauntingham Page:3| or {YamlEnabled(completed_file)}"
   },
   "Foxington": {
     "connects_to": [],
-    "requires": "|Hauntingham Page:4|"
+    "requires": "(|Foxington Unlock| and {YamlEnabled(completed_file)}) or (|Foxington Unlock| and |Hauntingham Page:4| and {YamlDisabled(completed_file)})"
   }
 }
