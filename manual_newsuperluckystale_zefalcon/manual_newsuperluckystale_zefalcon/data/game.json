@@ -3,5 +3,15 @@
   "game": "NewSuperLuckysTale",
   "creator": "Zefalcon",
   "filler_item_name": "Filler",
-  "starting_items": []
+  "starting_items": [
+    {
+      "yaml_option": ["completed_file"],
+      "item_categories": ["World Unlocks"],
+      "random": 1
+    },
+    {
+      "yaml_option": ["!completed_file"],
+      "items": ["Sky Castle Unlock"]
+    }
+  ]
 }

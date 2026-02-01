@@ -1,61 +1,77 @@
 {
+  "World Select": {
+    "starting": true,
+    "connects_to": [
+      "Sky Castle Entrance",
+      "Sky Castle",
+      "Veggie Village",
+      "Wrestful Retreat",
+      "Gilly Island",
+      "Hauntingham Start",
+      "Hauntingham Train",
+      "Hauntingham Island",
+      "Hauntingham End",
+      "Foxington"
+    ],
+    "requires": "{YamlEnabled(completed_file)}"
+  },
   "Sky Castle Entrance": {
     "starting": true,
     "connects_to": [
       "Sky Castle"
     ],
-    "requires": []
+    "requires": "|Sky Castle Unlock|"
   },
   "Sky Castle": {
     "connects_to": [
       "Veggie Village"
     ],
-    "requires": "|Sky Castle Page:1| or {YamlEnabled(completed_file)}"
+    "requires": "|Sky Castle Page:1| or ({YamlEnabled(completed_file)} and |Sky Castle Unlock|)"
   },
   "Veggie Village": {
     "connects_to": [
       "Wrestful Retreat"
     ],
-    "requires": "(|Veggie Village Unlock| and {YamlEnabled(completed_file)}) or (|Veggie Village Unlock| and |Sky Castle Page:8| and {YamlDisabled(completed_file)})"
+    "requires": "|Veggie Village Unlock| and ({YamlEnabled(completed_file)} or |Sky Castle Page:8|)"
   },
   "Wrestful Retreat": {
     "connects_to": [
       "Gilly Island"
     ],
-    "requires": "(|Wrestful Retreat Unlock| and {YamlEnabled(completed_file)}) or (|Wrestful Retreat Unlock| and |Veggie Village Page:10| and {YamlDisabled(completed_file)})"
+    "requires": "|Wrestful Retreat Unlock| and ({YamlEnabled(completed_file)} or |Veggie Village Page:10|)"
   },
   "Gilly Island": {
     "connects_to": [
       "Hauntingham Start"
     ],
-    "requires": "(|Gilly Island Unlock| and {YamlEnabled(completed_file)}) or (|Gilly Island Unlock| and |Wrestful Retreat Page:10| and {YamlDisabled(completed_file)})"
+    "requires": "|Gilly Island Unlock| and ({YamlEnabled(completed_file)} or |Wrestful Retreat Page:10|)"
   },
   "Hauntingham Start": {
     "connects_to": [
       "Hauntingham Train"
     ],
-    "requires": "(|Hauntingham Unlock| and {YamlEnabled(completed_file)}) or (|Hauntingham Unlock| and |Gilly Island Page:6| and {YamlDisabled(completed_file)})"
+    "requires": "|Hauntingham Unlock| and ({YamlEnabled(completed_file)} or |Gilly Island Page:6|)"
   },
   "Hauntingham Train": {
     "connects_to": [
       "Hauntingham Island"
     ],
-    "requires": "|Hauntingham Page:1| or {YamlEnabled(completed_file)}"
+    "requires": "|Hauntingham Page:1| or ({YamlEnabled(completed_file)} and |Hauntingham Unlock|)"
   },
   "Hauntingham Island": {
     "connects_to": [
       "Hauntingham End"
     ],
-    "requires": "|Hauntingham Page:2| or {YamlEnabled(completed_file)}"
+    "requires": "|Hauntingham Page:2| or ({YamlEnabled(completed_file)} and |Hauntingham Unlock|)"
   },
   "Hauntingham End": {
     "connects_to": [
       "Foxington"
     ],
-    "requires": "|Hauntingham Page:3| or {YamlEnabled(completed_file)}"
+    "requires": "|Hauntingham Page:3| or ({YamlEnabled(completed_file)} and |Hauntingham Unlock|)"
   },
   "Foxington": {
     "connects_to": [],
-    "requires": "(|Foxington Unlock| and {YamlEnabled(completed_file)}) or (|Foxington Unlock| and |Hauntingham Page:4| and {YamlDisabled(completed_file)})"
+    "requires": "|Foxington Unlock| and ({YamlEnabled(completed_file)} or |Hauntingham Page:4|)"
   }
 }

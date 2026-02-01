@@ -217,6 +217,14 @@
   },
   {
     "count": "1",
+    "name": "Sky Castle Unlock",
+    "category": [
+      "World Unlocks"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
     "name": "Veggie Village Unlock",
     "category": [
       "World Unlocks"

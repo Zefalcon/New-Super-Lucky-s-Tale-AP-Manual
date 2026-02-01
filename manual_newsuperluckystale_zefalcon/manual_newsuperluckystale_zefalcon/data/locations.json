@@ -1998,6 +1998,14 @@
     "category": [
       "Victory"
     ],
-    "requires": "|Medal:16|"
+    "requires": "|Medal:ALL|"
+  },
+  {
+    "name": "All Pages",
+    "victory": true,
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Sky Castle Page:ALL| and |Veggie Village Page:ALL| and |Wrestful Retreat Page:ALL| and |Gilly Island Page:ALL| and |Hauntingham Page:ALL|"
   }
 ]
