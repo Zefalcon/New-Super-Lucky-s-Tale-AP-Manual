@@ -69,7 +69,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Heavy Heads Letter:5|"
+    "requires": "|Heavy Heads Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Heavy Heads Letter Bundle|)"
   },
   {
     "name": "Aqueducts L location",
@@ -133,7 +133,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Aqueducts Letter:5|"
+    "requires": "|Aqueducts Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Aqueducts Letter Bundle|)"
   },
   {
     "name": "Aqueducts Completion Page",
@@ -205,7 +205,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Go Fetch Letter:5|"
+    "requires": "|Go Fetch Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Go Fetch Letter Bundle|)"
   },
   {
     "name": "Go Fetch Completion Page",
@@ -277,7 +277,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Dungeon Run Letter:5|"
+    "requires": "|Dungeon Run Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Dungeon Run Letter Bundle|)"
   },
   {
     "name": "Dungeon Run Completion Page",
@@ -293,7 +293,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 2",
@@ -301,7 +301,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 3",
@@ -309,7 +309,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 4",
@@ -317,7 +317,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 5",
@@ -325,7 +325,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 6",
@@ -333,7 +333,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Mittens",
@@ -405,7 +405,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Piggy Peril Letter:5|"
+    "requires": "|Piggy Peril Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Piggy Peril Letter Bundle|)"
   },
   {
     "name": "Piggy Peril Completion Page",
@@ -477,7 +477,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Egg Roll Letter:5|"
+    "requires": "|Egg Roll Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Egg Roll Letter Bundle|)"
   },
   {
     "name": "Egg Roll Completion Page",
@@ -549,7 +549,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Ripe Rollers Letter:5|"
+    "requires": "|Ripe Rollers Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Ripe Rollers Letter Bundle|)"
   },
   {
     "name": "Ripe Rollers Completion Page",
@@ -621,7 +621,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Harvest Festival Letter:5|"
+    "requires": "|Harvest Festival Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Harvest Festival Letter Bundle|)"
   },
   {
     "name": "Harvest Festival Completion Page",
@@ -693,7 +693,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Pungent Paths Letter:5|"
+    "requires": "|Pungent Paths Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Pungent Paths Letter Bundle|)"
   },
   {
     "name": "Pungent Paths Completion Page",
@@ -709,7 +709,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Ball Minigame Key|)}"
   },
   {
     "name": "Minigame 2",
@@ -717,7 +717,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Ball Minigame Key|)}"
   },
   {
     "name": "Tess",
@@ -789,7 +789,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Ladder Match of the Mind Letter:5|"
+    "requires": "|Ladder Match of the Mind Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Ladder Match of the Mind Letter Bundle|)"
   },
   {
     "name": "Ladder Match of the Mind Completion Page",
@@ -861,7 +861,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Melon Madness Letter:5|"
+    "requires": "|Melon Madness Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Melon Madness Letter Bundle|)"
   },
   {
     "name": "Melon Madness Completion Page",
@@ -933,7 +933,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Peaceful Place Letter:5|"
+    "requires": "|Peaceful Place Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Peaceful Place Letter Bundle|)"
   },
   {
     "name": "Peaceful Place Completion Page",
@@ -1005,7 +1005,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Crawl, Walk, Run Letter:5|"
+    "requires": "|Crawl, Walk, Run Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Crawl, Walk, Run Letter Bundle|)"
   },
   {
     "name": "Crawl, Walk, Run Completion Page",
@@ -1077,7 +1077,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|8-Fold Path Letter:5|"
+    "requires": "|8-Fold Path Letter:5| or ({YamlEnabled(use_letter_bundles)} and |8-Fold Path Letter Bundle|)"
   },
   {
     "name": "8-Fold Path Completion Page",
@@ -1093,7 +1093,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 8",
@@ -1101,7 +1101,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 9",
@@ -1109,7 +1109,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 10",
@@ -1117,7 +1117,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 11",
@@ -1125,7 +1125,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 12",
@@ -1133,7 +1133,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Buttons",
@@ -1205,7 +1205,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Securing the Talent Letter:5|"
+    "requires": "|Securing the Talent Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Securing the Talent Letter Bundle|)"
   },
   {
     "name": "Securing the Talent Completion Page",
@@ -1277,7 +1277,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Trapped in Paradise Letter:5|"
+    "requires": "|Trapped in Paradise Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Trapped in Paradise Letter Bundle|)"
   },
   {
     "name": "Trapped in Paradise Completion Page",
@@ -1349,7 +1349,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Three Cannon Salute Letter:5|"
+    "requires": "|Three Cannon Salute Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Three Cannon Salute Letter Bundle|)"
   },
   {
     "name": "Three Cannon Salute Completion Page",
@@ -1365,7 +1365,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 14",
@@ -1373,7 +1373,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 15",
@@ -1381,7 +1381,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 16",
@@ -1389,7 +1389,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 17",
@@ -1397,7 +1397,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Puzzle 18",
@@ -1405,7 +1405,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Puzzle Minigame Key|)}"
   },
   {
     "name": "Meowmalade",
@@ -1477,7 +1477,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Carnival Court Letter:5|"
+    "requires": "|Carnival Court Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Carnival Court Letter Bundle|)"
   },
   {
     "name": "Carnival Court Completion Page",
@@ -1549,7 +1549,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Terror Train Letter:5|"
+    "requires": "|Terror Train Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Terror Train Letter Bundle|)"
   },
   {
     "name": "Terror Train Completion Page",
@@ -1621,7 +1621,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Grave Awakening Letter:5|"
+    "requires": "|Grave Awakening Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Grave Awakening Letter Bundle|)"
   },
   {
     "name": "Grave Awakening Completion Page",
@@ -1693,7 +1693,7 @@
     "category": [
       "Pages"
     ],
-    "requires": "|Dungeon Crawl Letter:5|"
+    "requires": "|Dungeon Crawl Letter:5| or ({YamlEnabled(use_letter_bundles)} and |Dungeon Crawl Letter Bundle|)"
   },
   {
     "name": "Dungeon Crawl Completion Page",
@@ -1709,7 +1709,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Ball Minigame Key|)}"
   },
   {
     "name": "Minigame 4",
@@ -1717,7 +1717,7 @@
     "category": [
       "Pages"
     ],
-    "requires": []
+    "requires": "{OptOne(|Ball Minigame Key|)}"
   },
   {
     "name": "Jinx",

@@ -25,7 +25,17 @@
         "completed_file": {
 	    "type": "Toggle",
 	    "default": false,
-	    "description": "Whether you are starting with a completed file or not.  Worlds are still unlocked in order."
+	    "description": "Whether you are starting with a completed file or not.  Worlds must be unlocked before entering."
+	},
+        "use_letter_bundles": {
+	    "type": "Toggle",
+	    "default": false,
+	    "description": "Whether to bundle each level's letters."
+	},
+        "lock_minigames": {
+	    "type": "Toggle",
+	    "default": false,
+	    "description": "Whether to lock minigames (puzzle dungeons and ball rolling) behind keys."
 	},
         "_commented_out_option":{
             "type": "Toggle",

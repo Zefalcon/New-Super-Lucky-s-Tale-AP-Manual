@@ -1,5 +1,14 @@
 {
     "Costumes": {
 	"yaml_option": ["randomize_costumes"]
+    },
+    "Letters": {
+        "yaml_option": ["!use_letter_bundles"]
+    },
+    "Letter Bundles": {
+        "yaml_option": ["use_letter_bundles"]
+    },
+    "Minigame Keys": {
+        "yaml_option": ["lock_minigames"]
     }
 }

@@ -16,10 +16,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Heavy Heads Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Aqueducts Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aqueducts Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -32,10 +48,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Go Fetch Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Dungeon Run Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon Run Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -56,10 +88,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Piggy Peril Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Egg Roll Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Egg Roll Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -72,6 +120,14 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Ripe Rollers Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Harvest Festival Letter",
     "category": [
@@ -80,10 +136,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Harvest Festival Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Pungent Paths Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pungent Paths Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -104,10 +176,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Ladder Match of the Mind Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Melon Madness Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Melon Madness Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -120,6 +208,14 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Peaceful Place Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Crawl, Walk, Run Letter",
     "category": [
@@ -128,10 +224,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Crawl, Walk, Run Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "8-Fold Path Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-Fold Path Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -152,6 +264,14 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Securing the Talent Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Trapped in Paradise Letter",
     "category": [
@@ -160,10 +280,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Trapped in Paradise Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Three Cannon Salute Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Three Cannon Salute Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -184,10 +320,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Carnival Court Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Terror Train Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Terror Train Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -200,10 +352,26 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "Grave Awakening Letter Bundle",
+    "category": [
+      "Letter Bundles"
+    ],
+    "progression": true
+  },
+  {
     "count": 5,
     "name": "Dungeon Crawl Letter",
     "category": [
       "Letters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon Crawl Letter Bundle",
+    "category": [
+      "Letter Bundles"
     ],
     "progression": true
   },
@@ -270,5 +438,21 @@
       "Costumes"
     ],
     "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Puzzle Minigame Key",
+    "category": [
+      "Minigame Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Ball Minigame Key",
+    "category": [
+      "Minigame Keys"
+    ],
+    "progression": true
   }
 ]
