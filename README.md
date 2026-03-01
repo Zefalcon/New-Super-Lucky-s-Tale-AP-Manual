@@ -3,7 +3,7 @@ Manual AP implementation for New Super Lucky's Tale
 
 What counts as a check - All letters (L, U, C, K, and Y) within levels, every Page, every Costume (does not include preorder costumes; can be turned off via option), every Medal, and every boss fight
 
-What items can I receive - Letters, Pages, Costumes, Medals, and World Unlocks
+What items can I receive - Letters/Letter Bundles, Pages, Costumes, Medals, Minigame Unlocks, and World Unlocks
 
 What is my goal - Currently there are three possible goals: Defeat Jinx, All Medals, or All Pages
 
